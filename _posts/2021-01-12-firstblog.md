@@ -3,4 +3,10 @@ title: "First Blog"
 date: 2021-01-12
 ---
 
-This is a quick draft post to make sure everything is working. I've never made a blog so we shall see how this goes.
+This is the start of (hopfully) an amazing year in 20221. 
+
+I will be updating this blog simi-consistantly with projects and assignemnets. 
+
+My first assignemnet has been completed and it is this.
+
+https://jake063.github.io/github-slideshow/#/
