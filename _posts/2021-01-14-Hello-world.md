@@ -7,6 +7,23 @@ date: 2021,01,14
 
 ## Who am I?
 
-I am a high school student curentlty learning how to code using github.
+* Jake From State Farm
+* High School student
+* Learner of github
 
 ## An Introduction Slide Deck to learn more about me
+
+<iframe src="https://jake063.github.io/github-slideshow/" height=300 width=600></iframe> 
+
+# My Goals
+
+## My Hopes For This Class
+
+
+
+## Cerrer Goals
+
+
+
+# My Github Experience
+
