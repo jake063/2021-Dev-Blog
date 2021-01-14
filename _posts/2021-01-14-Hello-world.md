@@ -13,7 +13,7 @@ date: 2021,01,14
 
 ## An Introduction Slide Deck to learn more about me
 
-<iframe src="https://jake063.github.io/github-slideshow/" height=300 width=600></iframe> 
+<iframe src="https://jake063.github.io/github-slideshow/" width="600" height="300"></iframe> 
 
 # My Goals
 
