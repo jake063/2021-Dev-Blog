@@ -40,7 +40,7 @@ I do not yet have any clue of what I will do after high school, but I think some
 
 ## What Have I Learned?
 
-* How to use gitflow and create pullrequest
+* How to use gitflow and create pull request
 * How to imbbed additional websites inside another website
 * How to edit what text looks like and to add lists and other fun things
 
