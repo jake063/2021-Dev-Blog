@@ -7,9 +7,9 @@ My first blog post, this is an introduction to who I am as a student and person.
 
 
 
-###### personal Introduction
+# personal Introduction
 
-# Who am I?
+## Who am I?
 
 * Jake From State Farm
 * High School student
