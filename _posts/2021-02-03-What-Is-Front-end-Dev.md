@@ -16,4 +16,4 @@ Types of code used in Front-end Dev...
 
 # My Experience With Front-end Development
 
-![Image bruh](https://c1.tribebytes.com/assets/image-title.jpg)
+!Image bruh(https://c1.tribebytes.com/assets/image-title.jpg)
