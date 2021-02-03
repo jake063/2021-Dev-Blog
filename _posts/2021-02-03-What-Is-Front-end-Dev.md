@@ -2,4 +2,16 @@
 title: What Is Front-end Development?
 date: 2021-02-03
 ---
-this is no longer the title, this is filler text.
+
+Front-end development is the literal front end of what we see on a website, the user interface. The user interface consists of...
+* text
+* buttons
+* visual design (css)
+The user uses the user interface to interact with the website.
+
+Types of code used in Front-end Dev...
+* HTML- for what to display
+* css- for how to display it
+* javascript- for how parts of the website interact with each other (buttons, etc..)
+
+
