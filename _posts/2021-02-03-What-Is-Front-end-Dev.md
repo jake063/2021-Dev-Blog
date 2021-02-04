@@ -16,4 +16,27 @@ Types of code used in Front-end Dev...
 
 # My Experience With Front-end Development
 
+Over the course of the last few weeks I have built a pin board. This board can
+
+* display pictures on the site with tags
+* add new pictures with tags
+* search for tags
+
+The pin board has all three types of code in front-end development, it uses 
+
+### HTML
+
+The big HTML elements of the site are the header, this 
+
+* Links other files to the index
+* Links link to font
+* displays what the name of the site is
+
+The next part of the HTML is the body, this is the rest of the index. The body does things like
+
+* filler bullet point to continue work
+
+
+
+
 ![test to see if image work](https://c1.tribebytes.com/u1/images/the-expanded-definition.png)
