@@ -49,7 +49,7 @@ This is the header to my pinboard
 
 The next part of the HTML is the body, this is the rest of the index. The body does things like
 
-* Defines things for js to work with
+* Defines classes for js to work with
 * Puts text on the site for css to work with
 
 This is an part of the Body
