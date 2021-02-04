@@ -16,7 +16,7 @@ Types of code used in Front-end Dev...
 
 ### My Experience With Front-end Development
 
-<iframe src="https://011-frontend-development-pinboard-st8fromfarm.dbcs.repl.co/" width="900" height="600"></iframe> 
+<iframe src="https://011-frontend-development-pinboard-st8fromfarm.dbcs.repl.co/" width="900" height="450"></iframe> 
 
 Over the course of the last few weeks I have built a pin board. This board can
 
@@ -133,4 +133,13 @@ function appendData(data) {
 }
 ```
 
+## conclusion
 
+Front-end development is great, I have learned a lot but still need to learn more. I do not fully yet understand 
+
+* Javascript
+* some HTML
+
+As far as I know I understand css but I still dont think I could wright it from scratch.
+
+I will be learning these things as I progress through the year.
