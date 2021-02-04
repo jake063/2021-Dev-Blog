@@ -16,7 +16,7 @@ Types of code used in Front-end Dev...
 
 ### My Experience With Front-end Development
 
-<iframe src="https://011-frontend-development-pinboard-st8fromfarm.dbcs.repl.co/" width="900" height="450"></iframe> 
+<iframe src="https://011-frontend-development-pinboard-st8fromfarm.dbcs.repl.co/" width="900" height="600"></iframe> 
 
 Over the course of the last few weeks I have built a pin board. This board can
 
