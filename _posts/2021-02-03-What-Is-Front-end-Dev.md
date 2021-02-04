@@ -51,8 +51,8 @@ css is the style of a site
 Javascript is the last coding language that Front-end devs use. It does many things such as
 
 1. Defining functions for how things interact
-* buttons, etc...
-1. also displays words 
-* for buttons or actions 
+  * buttons, etc...
+2. also displays words 
+  * for buttons or actions 
 
 ![test to see if image work](https://c1.tribebytes.com/u1/images/the-expanded-definition.png)
