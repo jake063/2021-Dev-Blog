@@ -18,7 +18,6 @@ Types of code used in Front-end Dev...
 
 <iframe src="https://011-frontend-development-pinboard-st8fromfarm.dbcs.repl.co/" width="600" height="300"></iframe> 
 
-
 Over the course of the last few weeks I have built a pin board. This board can
 
 * display pictures on the site with tags
