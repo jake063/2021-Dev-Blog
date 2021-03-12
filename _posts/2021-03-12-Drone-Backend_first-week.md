@@ -3,6 +3,8 @@ title: Drone Backend
 date: 2021-03-12
 ---
 
+Over the course of this past week me and my drone team have been creating devices to stay on task, commands to move the drone, and following git flow to push and pull requests.
+
 <h1>
   What Have I Done
 </h1>
