@@ -93,4 +93,11 @@ The way I broke the problem down is I asked myself what exactly I want to do and
 
 # What did I learn?
 
-In all honesty 
+* how not to make a battlesnake
+* some problem solving skills
+
+## Next Steps
+
+# With one more week, what could we do?
+
+If we just had one more week I feel like my partner could lock down the snake not rinning into itself and the walls and I could get the snakes food sensors up and running, maybe we would even have time to detect other snakes.
