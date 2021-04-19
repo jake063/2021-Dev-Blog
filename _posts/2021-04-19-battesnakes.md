@@ -3,6 +3,9 @@ title: The Week of Snakes
 date: 2021-04-19
 ---
 
+Battlesnakes! A fight to the death! one snake left slithering! See how we created the one snake to rule them all...
+...Sort of..
+
 ## The Idea
 
 This last week me and a partner have been slaving away at getting a Battlesnake ready to fight in a double emimination tournament.
